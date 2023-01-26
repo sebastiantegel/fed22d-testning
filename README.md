@@ -10,3 +10,10 @@ I detta repo installerar vi jest. Vi får sedan kontroll över vår filstruktur 
 - [jest - using typescript](https://jestjs.io/docs/getting-started#using-typescript)
 - [jest - matchers](https://jestjs.io/docs/using-matchers)
 - [parceljs](https://parceljs.org/getting-started/webapp/)
+
+## 4. Unittesting_JSDOM - DOM och spioner
+
+I detta repo finns det exempel på hur ni kan skriva tester kring DOM-förändringar. Hur det går att använda DOM:en på olika sätt (t.ex. hitta element, klicka på element eller förändra element). Vi gå också igenom hur vi kan tänka när vi har funktioner som anropar andra funktioner genom att använda spioner.
+
+- [jest - spyOn](https://jestjs.io/docs/jest-object#jestspyonobject-methodname)
+- [jest - jsdom](https://jestjs.io/docs/configuration#testenvironment-string)
