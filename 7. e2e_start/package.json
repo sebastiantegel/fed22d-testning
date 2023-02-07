@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "@parcel/transformer-typescript-tsc": "^2.8.3",
+    "@parcel/validator-typescript": "^2.8.3",
+    "cypress": "^12.5.1",
+    "parcel": "^2.8.3"
+  }
+}
